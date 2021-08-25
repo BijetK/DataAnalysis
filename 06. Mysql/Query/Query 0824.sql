@@ -1,0 +1,1 @@
+select TO_DAYS(CURDATE())
