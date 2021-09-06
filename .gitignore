@@ -4,7 +4,9 @@ kakaoapikey.txt
 guideSearchApi/
 password.txt
 mysql.json
-
+credit.json
+ko.zip
+credits.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
